@@ -1,4 +1,4 @@
-# Simple PHP Login System (Challenge PT. Javis Teknologi Albarokah)
+# Simple PHP Login System ( PT. Javis Teknologi Albarokah)
 
 ## 🧠 Deskripsi
 Proyek ini adalah aplikasi web sederhana berbasis **PHP + MySQL** dengan sistem login dan autentikasi session.  
